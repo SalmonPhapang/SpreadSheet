@@ -72,9 +72,3 @@ Values,Factor,Product
 ,Total:,#(sum C3 C4 C5)
 Sum test:,#(sum A2 A3),
 Prod test:,#(prod A2 A3)
-3.0,2.0,#(prod A4 B4)
-4.5,2.5,#(prod A5 B5)
-,,#hl
-,Total:,#(sum C3 C4 C4)
-Sum test:,#(sum A2 A3),
-Prod test:,#(prod A2 A3)
